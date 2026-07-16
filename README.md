@@ -1,9 +1,5 @@
 # 🎬 Movie Dataset Analysis using Python
 
-Analyze movie industry data to uncover trends in ratings, budgets, box office performance, genres, and actors using Python and data visualization libraries.
-
----
-
 ## 📌 Project Overview
 
 This project explores a movie dataset using Python to perform data cleaning, exploratory data analysis (EDA), and visualization. The goal is to identify patterns, relationships, and insights related to movie performance, ratings, budgets, genres, and box office revenue.
